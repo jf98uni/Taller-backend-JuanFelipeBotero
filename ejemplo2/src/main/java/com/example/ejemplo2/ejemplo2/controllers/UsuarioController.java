@@ -2,7 +2,6 @@ package com.example.ejemplo2.ejemplo2.controllers;
 
 import com.example.ejemplo2.ejemplo2.models.UsuarioModel;
 import com.example.ejemplo2.ejemplo2.services.UsuarioService;
-import net.bytebuddy.asm.Advice;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -23,6 +22,6 @@ public class UsuarioController {
 
     @PostMapping
     public UsuarioModel guardarUsuario(@RequestBody UsuarioModel usuario){
-        return this.guardarUsuario(usuario);
+        return usuarioService.guardarUsuario(usuario);
     }
 }

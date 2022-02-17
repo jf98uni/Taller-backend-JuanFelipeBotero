@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3896bc9-3a38-4fa6-b237-7be6e719e305" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejemplo2/ejemplo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/ejemplo2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejemplo2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/controllers/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/controllers/UsuarioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/models/UsuarioModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/models/UsuarioModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejemplo2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejemplo2/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/models/UsuarioModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/models/UsuarioModel.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
