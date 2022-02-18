@@ -21,6 +21,15 @@ public class UsuarioModel {
     private String nombre;
     private String email;
     private Integer prioridad;
+    private Long telefono;
+
+    public Long getTelefono() {
+        return telefono;
+    }
+
+    public void setTelefono(Long telefono) {
+        this.telefono = telefono;
+    }
 
     public Long getId() {
         return id;

@@ -7,8 +7,13 @@
     <list default="true" id="c3896bc9-3a38-4fa6-b237-7be6e719e305" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/controllers/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/controllers/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/models/UsuarioModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/models/UsuarioModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/repositories/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/repositories/UsuarioRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/services/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/src/main/java/com/example/ejemplo2/ejemplo2/services/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/controllers/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/controllers/UsuarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/models/UsuarioModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/models/UsuarioModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/repositories/UsuarioRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/repositories/UsuarioRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/services/UsuarioService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo2/target/classes/com/example/ejemplo2/ejemplo2/services/UsuarioService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
