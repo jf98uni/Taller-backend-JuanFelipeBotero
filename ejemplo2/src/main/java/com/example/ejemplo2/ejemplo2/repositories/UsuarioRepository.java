@@ -10,5 +10,8 @@ import java.util.ArrayList;
 @Repository
 public interface UsuarioRepository extends CrudRepository<UsuarioModel, Long> {
 
+    // crea un arreglo donde se guardaran los usuarios que compartan una cierta prioridad
     public abstract ArrayList<UsuarioModel> findByPrioridad(Integer prioridad);
+
+    public abstract ArrayList<UsuarioModel> findByNombre(String nombre);
 }
